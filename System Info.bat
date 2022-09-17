@@ -2,7 +2,7 @@ echo off
 color 0c
 @echo off 
 cls
-Title Temp Deleter by ZODO
+Title SystemInfo by ZODO
 
 @echo.  ________  ____   ___
 @echo. ^|^_^_  ^/ ^_ ^\^|  ^_ ^\ ^/ ^_ ^\
