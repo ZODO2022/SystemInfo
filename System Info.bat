@@ -9,7 +9,7 @@ Title SystemInfo by ZODO
 @echo.   ^/ ^/ ^| ^| ^| ^| ^| ^| ^| ^| ^|
 @echo.  ^/ ^/^| ^|^_^| ^| ^|^_^| ^| ^|^_^| ^|
 @echo. ^/^_^_^_^_^\^_^_^_^/^|^_^_^_^_^/ ^\^_^_^_^/                        
-ECHO.
+@echo.
 
 systeminfo
 wmic baseboard get product,Manufacturer,version,serialnumber
